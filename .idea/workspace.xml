@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/vendor/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/database/conection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/database/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d/storage_v2/_src_/schema/phplaraveldevs.v5iv6w.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d/storage_v2/_src_/schema/phplaraveldevs.v5iv6w.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +35,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/alumne/USB 32GB Marc/SEGUNDO/MP09&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vendor" />
@@ -72,7 +72,9 @@
       <workItem from="1697469732368" duration="3023000" />
       <workItem from="1698074265732" duration="1808000" />
       <workItem from="1698079507227" duration="2241000" />
-      <workItem from="1698683279822" duration="3576000" />
+      <workItem from="1698683279822" duration="3902000" />
+      <workItem from="1699293087544" duration="1938000" />
+      <workItem from="1699898113602" duration="423000" />
     </task>
     <servers />
   </component>
