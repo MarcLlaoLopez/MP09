@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prova.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MP09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d/storage_v2/_src_/schema/phplaraveldevs.v5iv6w.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be37d238-242e-4741-8fe0-26ccbb12694d/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova" beforeDir="false" afterPath="$PROJECT_DIR$/prova" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/prova/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova/.idea/prova.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prova/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/contraseña.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +90,7 @@
       <workItem from="1698683279822" duration="3902000" />
       <workItem from="1699293087544" duration="1938000" />
       <workItem from="1699898113602" duration="1434000" />
-      <workItem from="1700496331415" duration="403000" />
+      <workItem from="1700496331415" duration="1138000" />
     </task>
     <servers />
   </component>
