@@ -1,31 +1,37 @@
-<!DOCTYPE html>
-<html lang="es">
+<!doctype html>
+<html>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Título de la Página</title>
+    <title>Página Web</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 <header>
-    <h1><?=$greetings?></h1>
-    <nav>
-        <ul>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">Acerca de</a></li>
-            <li><a href="#">Contacto</a></li>
-        </ul>
-    </nav>
+    <h1><?=$greeting;?></h1>
+    <p>Prova curu = <?=dd($tasks)?></p>
 </header>
 
-<main>
-    <section>
-        <h2>Sección Principal</h2>
-        <p>Contenido de la sección principal.</p>
-    </section>
-</main>
+<section id="contenido">
+    <article>
+        <h2>Artículo 1</h2>
+        <p>Este es el primer artículo de mi página web.</p>
+    </article>
+    <article>
+        <h2>Artículo 2</h2>
+        <p>Este es el segundo artículo de mi página web.</p>
+    </article>
+</section>
+
+<aside>
+    <h3>Barra lateral</h3>
+    <ul>
+        <li>Enlaces útiles</li>
+        <li>Publicidad</li>
+    </ul>
+</aside>
 
 <footer>
-    <p>Pie de Página</p>
+    <p>Derechos de autor © 2023 Mi Página Web</p>
 </footer>
 </body>
 </html>
