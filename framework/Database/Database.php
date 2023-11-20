@@ -1,6 +1,6 @@
 <?php
 
-namespace framework\database;
+namespace framework\Database;
 
 use PDO;
 
@@ -12,9 +12,17 @@ class Database
     {
         $this->pdo = $pdo;
     }
-    public function selectAll($table){
+
+    public function selectAll($table)
+    {
+
         $statement = $this->pdo->prepare("SELECT * FROM $table;");
+
         $statement->execute();
+
         return $statement->fetchAll(PDO::FETCH_CLASS);
     }
+
+
+
 }

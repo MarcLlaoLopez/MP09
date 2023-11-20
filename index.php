@@ -1,5 +1,6 @@
 <?php
-//echo "Hello World!"
-require "app/index.php";
+//echo 'Hello World!';
 
-require "resources/views/index.blade.php";
+require 'app/index.php';
+
+require 'resources/views/index.blade.php';
