@@ -27,6 +27,15 @@ I el de password
 ![Captura6](Capturas/Selección_006.png)
 
 ## Crear inserts a la taula users
+
+El que anem a fer ara serà crear inserts dins de la taula 'users'
+
+Anirem a la taula user i farem clic dret per a afegir una row
+![Captura7](Capturas/Selección_007.png)
+
+I omplirem els parametres de les taules
+![Captura8](Capturas/Selección_008.png)
+
 ## Crear controlador de users a app
 ## Crear ruta a routes.php i afegir la nova ruta al navegador
 ## Crear la vista users.blade.php
