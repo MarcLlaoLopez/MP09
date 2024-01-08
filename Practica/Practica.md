@@ -39,6 +39,11 @@ I omplirem els parametres de les taules
 ![Captura8](Capturas/Selección_008.png)
 
 ## Crear controlador de users a app
+
+Anirem a la carpeta de app i crearem users.php
+![Captura9](Capturas/Selección_009.png)
+
+
 ## Crear ruta a routes.php i afegir la nova ruta al navegador
 ## Crear la vista users.blade.php
 

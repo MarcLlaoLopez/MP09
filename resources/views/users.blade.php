@@ -29,8 +29,10 @@
                                     @foreach($users as $user)
                                         <tr class="even:bg-gray-50">
                                             <td class="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-3">{{ $user->id }}</td>
-                                            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{{ $user->name }}</td>
+                                            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{{ $user->nom }}</td>
+                                            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{{ $user->cognom }}</td>
                                             <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{{ $user->email }}</td>
+                                            <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{{ $user->password }}</td>
                                         </tr>
                                     @endforeach
                                     <!-- More people... -->
