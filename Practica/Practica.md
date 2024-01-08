@@ -31,9 +31,11 @@ I el de password
 El que anem a fer ara serà crear inserts dins de la taula 'users'
 
 Anirem a la taula user i farem clic dret per a afegir una row
+
 ![Captura7](Capturas/Selección_007.png)
 
 I omplirem els parametres de les taules
+
 ![Captura8](Capturas/Selección_008.png)
 
 ## Crear controlador de users a app
