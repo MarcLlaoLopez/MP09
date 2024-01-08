@@ -43,6 +43,8 @@ I omplirem els parametres de les taules
 Anirem a la carpeta de app i crearem users.php
 ![Captura9](Capturas/Selección_009.png)
 
+Aquest serà el contingut del fitxer users.php
+![Captura10](Capturas/Selección_010.png)
 
 ## Crear ruta a routes.php i afegir la nova ruta al navegador
 ## Crear la vista users.blade.php
