@@ -46,7 +46,14 @@ Anirem a la carpeta de app i crearem users.php
 Aquest serà el contingut del fitxer users.php
 ![Captura10](Capturas/Selección_010.png)
 
+I dins de resources/views/layout tenim que tindre configurat el fitxer users.blade.php
+
+![Captura11](Capturas/Selección_011.png)
 ## Crear ruta a routes.php i afegir la nova ruta al navegador
+
+Canviarem el fitxer routes.php afegint la ruta d'users
+![Captura12](Capturas/Selección_012.png)
+
 ## Crear la vista users.blade.php
 
 Documentar en captures i comprovació de inserts de tasks i users
