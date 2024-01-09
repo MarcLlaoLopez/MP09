@@ -54,6 +54,8 @@ I dins de resources/views/layout tenim que tindre configurat el fitxer users.bla
 Canviarem el fitxer routes.php afegint la ruta d'users
 ![Captura12](Capturas/Selección_012.png)
 
+Una vegada afegit anirem 
+
 ## Crear la vista users.blade.php
 
 Documentar en captures i comprovació de inserts de tasks i users

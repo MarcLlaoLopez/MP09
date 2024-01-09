@@ -7,7 +7,6 @@
     <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practica/Practica.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practica/Practica.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,8 @@
       <workItem from="1701106703855" duration="4088000" />
       <workItem from="1701707214027" duration="2819000" />
       <workItem from="1702915671111" duration="4944000" />
-      <workItem from="1704730533028" duration="5468000" />
+      <workItem from="1704730533028" duration="6285000" />
+      <workItem from="1704822755803" duration="308000" />
     </task>
     <servers />
   </component>
