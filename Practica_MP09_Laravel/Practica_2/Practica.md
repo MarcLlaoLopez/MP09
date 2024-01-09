@@ -5,12 +5,27 @@ El que farem serà anar a l'apartat de database i fer clic dret en l'apartat de 
 
 ![Captura1](Capturas/Selección_001.png)
 
-I afegirem una nova taula
+I afegirem una nova taula anomenada tasks
 
 ![Captura2](Capturas/Selección_002.png)
 
+A la qual a la definició d'aquesta afegirem els camps id, name, description i completed
+
+![Captura3](Capturas/Selección_003.png)
+
 
 ## Crear factory
+
+Tindrem que crear un fitxer php anomenat TaskFactorie prenent com a referéncia el fitxer UserFactory,
+simplement tindrem que copiar el fitxer i pegar
+
+![Captura4](Capturas/Selección_004.png)
+
+I el mostrem
+
+![Captura5](Capturas/Selección_005.png)
+
+
 
 ## Crear seed
 
@@ -18,7 +33,7 @@ I afegirem una nova taula
 
 ## Crear controlador de tasks
 
-## Craer model de tasks
+## Crear model de tasks
 
 ## Crear ruta a routes/web.php i afegir la nova ruta al navegador al fitxer resources/views/components/layout.blade.php crear la vista tasks.blade.php
 
