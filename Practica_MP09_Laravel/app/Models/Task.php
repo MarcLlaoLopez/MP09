@@ -15,5 +15,3 @@ class Task extends Model
         'completed'
     ];
 }
-
-

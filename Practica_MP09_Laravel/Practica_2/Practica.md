@@ -25,15 +25,21 @@ I el mostrem
 
 ![Captura5](Capturas/Selección_005.png)
 
+## Crear model de tasks
 
+El que farem primer serà crear el model de Task
+![Captura6](Capturas/Selección_006.png)
 
+I afegirem la següent linea
+![Captura7](Capturas/Selección_007.png)
 ## Crear seed
 
 ## Crear inserts a partir del seed
 
 ## Crear controlador de tasks
 
-## Crear model de tasks
+
+
 
 ## Crear ruta a routes/web.php i afegir la nova ruta al navegador al fitxer resources/views/components/layout.blade.php crear la vista tasks.blade.php
 

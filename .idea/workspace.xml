@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/app/Models/Task.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/app/Models/Task.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,7 @@
       <workItem from="1701707214027" duration="2819000" />
       <workItem from="1702915671111" duration="4944000" />
       <workItem from="1704730533028" duration="6285000" />
-      <workItem from="1704822755803" duration="8108000" />
+      <workItem from="1704822755803" duration="8418000" />
     </task>
     <servers />
   </component>
