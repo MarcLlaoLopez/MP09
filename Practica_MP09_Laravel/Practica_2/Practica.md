@@ -34,7 +34,26 @@ I afegirem la següent linea
 ![Captura7](Capturas/Selección_007.png)
 ## Crear seed
 
+Crearem la seed que servirà per a la taula Task que hem creat anteriorment
+
+![Captura8](Capturas/Selección_008.png)
+
+La qual tindrem que plenar amb el següent contingut
+
+![Captura9](Capturas/Selección_009.png)
+
 ## Crear inserts a partir del seed
+
+Afegim la linea següent dins de **database/migrations/2023_12_19_190450_tasks.php**
+
+![Captura10](Capturas/Selección_010.png)
+
+Farem us de la següent comanda
+
+![Captura11](Capturas/Selección_011.png)
+
+
+
 
 ## Crear controlador de tasks
 
