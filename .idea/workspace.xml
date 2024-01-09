@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="" />
+    <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeception.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeception.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpspec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prova.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prova.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/graham-campbell/result-type/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/graham-campbell/result-type/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-ctype/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-ctype/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-ctype/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-ctype/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-mbstring/Mbstring.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-mbstring/Mbstring.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-mbstring/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-mbstring/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-mbstring/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-mbstring/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-php80/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-php80/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/src/Loader/Resolver.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/src/Loader/Resolver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/src/Parser/EntryParser.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/src/Parser/EntryParser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/src/Store/File/Paths.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv/src/Store/File/Paths.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +64,13 @@
       <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/Practica_MP09/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/Practica_MP09/vendor/composer" />
+      <path value="$PROJECT_DIR$/Practica_MP09/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Practica_MP09/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/Practica_MP09/vendor/vlucas/phpdotenv" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,7 +136,7 @@
       <workItem from="1701707214027" duration="2819000" />
       <workItem from="1702915671111" duration="4944000" />
       <workItem from="1704730533028" duration="6285000" />
-      <workItem from="1704822755803" duration="3891000" />
+      <workItem from="1704822755803" duration="5199000" />
     </task>
     <servers />
   </component>
