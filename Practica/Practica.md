@@ -40,7 +40,8 @@ I omplirem els parametres de les taules
 
 ## Crear controlador de users a app
 
-Anirem a la carpeta de app i crearem users.php
+Anirem a la carpeta de app i crearem users.php 
+
 ![Captura9](Capturas/Selección_009.png)
 
 Aquest serà el contingut del fitxer users.php
@@ -54,8 +55,19 @@ I dins de resources/views/layout tenim que tindre configurat el fitxer users.bla
 Canviarem el fitxer routes.php afegint la ruta d'users
 ![Captura12](Capturas/Selección_012.png)
 
-Una vegada afegit anirem 
+Una vegada afegit anirem al fitxer de nav.blade.php situat a resources/views/layout
+![Captura13](Capturas/Selección_013.png)
+
+I l'editarem afegint la següent línia per a crear el submenu en el navegador
+![Captura14](Capturas/Selección_014.png)
+
+Es veurà de la següent manera
+![Captura15](Capturas/Selección_015.png)
 
 ## Crear la vista users.blade.php
+Tenim que tindre el fitxer users.blade.php
 
-Documentar en captures i comprovació de inserts de tasks i users
+![Captura11](Capturas/Selección_011.png)
+
+Així sería com es veu el fitxer users.blade.php
+![Captura16](Capturas/Selección_016.png)
