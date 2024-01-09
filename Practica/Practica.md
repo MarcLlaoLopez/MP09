@@ -45,6 +45,7 @@ Anirem a la carpeta de app i crearem users.php
 ![Captura9](Capturas/Selección_009.png)
 
 Aquest serà el contingut del fitxer users.php
+
 ![Captura10](Capturas/Selección_010.png)
 
 I dins de resources/views/layout tenim que tindre configurat el fitxer users.blade.php
@@ -53,9 +54,11 @@ I dins de resources/views/layout tenim que tindre configurat el fitxer users.bla
 ## Crear ruta a routes.php i afegir la nova ruta al navegador
 
 Canviarem el fitxer routes.php afegint la ruta d'users
+
 ![Captura12](Capturas/Selección_012.png)
 
 Una vegada afegit anirem al fitxer de nav.blade.php situat a resources/views/layout
+
 ![Captura13](Capturas/Selección_013.png)
 
 I l'editarem afegint la següent línia per a crear el submenu en el navegador
