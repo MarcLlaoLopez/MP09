@@ -32,4 +32,5 @@ Route::get('/users',[\App\Http\Controllers\UserController::class,'index']);
 Route::get('/tasks',[\App\Http\Controllers\TaskController::class,'index']);
 Route::get('/contact',[\App\Http\Controllers\PagesController::class,'contact']);
 Route::get('/about',[\App\Http\Controllers\PagesController::class,'about']);
-
+Route::get('/',[UserController::class,'index']);
+Route::get('/users',[UserController::class,'index']);
