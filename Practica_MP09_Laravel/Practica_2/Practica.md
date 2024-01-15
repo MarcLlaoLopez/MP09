@@ -28,6 +28,7 @@ I el mostrem
 ## Crear model de tasks
 
 El que farem primer serà crear el model de Task
+
 ![Captura6](Capturas/Selección_006.png)
 
 I afegirem la següent linea
