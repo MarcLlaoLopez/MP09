@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prova.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prova.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/config/database.php" afterDir="false" />
-    </list>
+    <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,7 +246,7 @@
       <workItem from="1702915671111" duration="4944000" />
       <workItem from="1704730533028" duration="6285000" />
       <workItem from="1704822755803" duration="8577000" />
-      <workItem from="1704838562371" duration="1677000" />
+      <workItem from="1704838562371" duration="2270000" />
     </task>
     <servers />
   </component>
