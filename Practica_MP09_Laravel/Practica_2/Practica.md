@@ -53,6 +53,17 @@ Farem us de la següent comanda
 
 ![Captura11](Capturas/Selección_011.png)
 
+I podem veure que creant la base de dades de sqlite
+
+![Captura12](Capturas/Selección_012.png)
+
+Ho migrem tot amb la comanda **php artisan migrate**
+
+![Captura13](Capturas/Selección_013.png)
+
+I la comanda ens funcionaria
+
+![Captura14](Capturas/Selección_014.png)
 
 
 
@@ -63,5 +74,3 @@ Farem us de la següent comanda
 
 ## Crear ruta a routes/web.php i afegir la nova ruta al navegador al fitxer resources/views/components/layout.blade.php crear la vista tasks.blade.php
 
-
-Documentar en captures i comprovació de inserts de tasks i users
