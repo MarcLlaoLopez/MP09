@@ -79,4 +79,10 @@ Anirem a routes/web.php i afegim la següent ruta
 
 ![Captura16](Capturas/Selección_016.png)
 
-L'afegirem també a layout.web.php
+L'afegirem també a layout.blade.php
+
+![Captura17](Capturas/Selección_017.png)
+
+I crearem la vista de task.blade.php
+
+![Captura18](Capturas/Selección_018.png)
