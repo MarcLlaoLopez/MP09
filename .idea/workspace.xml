@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" afterDir="false" />
-    </list>
+    <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -255,7 +253,7 @@
       <workItem from="1704838562371" duration="2270000" />
       <workItem from="1705334161052" duration="3273000" />
       <workItem from="1705340897655" duration="469000" />
-      <workItem from="1705341744630" duration="1043000" />
+      <workItem from="1705341744630" duration="1607000" />
     </task>
     <servers />
   </component>
