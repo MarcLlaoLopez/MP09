@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b129402-f0f2-4a56-9106-fc1fb2513ab1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Capturas/Selección_016.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/Practica_2/Practica.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_MP09_Laravel/app/Http/Controllers/TaskController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Practica_MP09_Laravel/app/Http/Controllers/TaskController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +257,7 @@
       <workItem from="1704730533028" duration="6285000" />
       <workItem from="1704822755803" duration="8577000" />
       <workItem from="1704838562371" duration="2270000" />
-      <workItem from="1705334161052" duration="2489000" />
+      <workItem from="1705334161052" duration="3273000" />
     </task>
     <servers />
   </component>

@@ -66,11 +66,17 @@ I la comanda ens funcionaria
 ![Captura14](Capturas/Selección_014.png)
 
 
-
 ## Crear controlador de tasks
 
+Crearem el controller fent ús de la següent comanda
 
+![Captura15](Capturas/Selección_015.png)
 
 
 ## Crear ruta a routes/web.php i afegir la nova ruta al navegador al fitxer resources/views/components/layout.blade.php crear la vista tasks.blade.php
 
+Anirem a routes/web.php i afegim la següent ruta
+
+![Captura16](Capturas/Selección_016.png)
+
+L'afegirem també a layout.web.php
