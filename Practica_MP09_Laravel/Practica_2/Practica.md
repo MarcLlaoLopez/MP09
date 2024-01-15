@@ -30,8 +30,8 @@ I el mostrem
 El que farem primer serà crear el model de Task
 ![Captura6](Capturas/Selección_006.png)
 
-
 I afegirem la següent linea
+
 ![Captura7](Capturas/Selección_007.png)
 ## Crear seed
 
